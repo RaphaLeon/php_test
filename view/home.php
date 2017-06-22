@@ -1,7 +1,8 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE HTML">
 <html>
 <head>
-	<title>Untitled</title>
+	<meta charset="utf-8">
+	<title>home</title>
 </head>
 
 <body>
